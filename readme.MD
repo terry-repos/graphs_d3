@@ -1,6 +1,5 @@
 # Graphs D3
 Explores hierarchical containment and connectivity graphs using D3, populated with example biological datasets.
-See http://graphs-0.appspot.com
 All raw data can be found in /raw and all graph ready data can be found in /dat
 
 ## Bond graph (BG) example
